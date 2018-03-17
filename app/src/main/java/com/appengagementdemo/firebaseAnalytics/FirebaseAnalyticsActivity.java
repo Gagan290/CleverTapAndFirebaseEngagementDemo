@@ -1,9 +1,9 @@
-package com.example.praveen.appengagementdemo.firebaseAnalytics;
+package com.appengagementdemo.firebaseAnalytics;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.example.praveen.appengagementdemo.R;
+import com.appengagementdemo.R;
 import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.Random;

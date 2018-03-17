@@ -1,4 +1,4 @@
-package com.example.praveen.appengagementdemo.firebaseAnalytics;
+package com.appengagementdemo.firebaseAnalytics;
 
 
 public class Food {

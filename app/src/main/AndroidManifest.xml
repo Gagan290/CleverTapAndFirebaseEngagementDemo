@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.praveen.appengagementdemo">
+    package="com.appengagementdemo">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -66,7 +66,7 @@
 
         <!--Urban AirShip App Engagement SDK-->
         <meta-data android:name="com.urbanairship.autopilot"
-            android:value="com.example.praveen.appengagementdemo.urbanAirShip.SampleAutopilot" />
+            android:value="com.appengagementdemo.urbanAirShip.SampleAutopilot" />
 
 
 

@@ -1,4 +1,4 @@
-package com.example.praveen.appengagementdemo;
+package com.appengagementdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.praveen.appengagementdemo", appContext.getPackageName());
+        assertEquals("com.appengagementdemo", appContext.getPackageName());
     }
 }

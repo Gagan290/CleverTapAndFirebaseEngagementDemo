@@ -1,4 +1,4 @@
-package com.example.praveen.appengagementdemo;
+package com.appengagementdemo;
 
 import org.junit.Test;
 

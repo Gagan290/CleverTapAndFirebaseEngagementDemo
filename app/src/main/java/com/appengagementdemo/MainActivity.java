@@ -1,4 +1,4 @@
-package com.example.praveen.appengagementdemo;
+package com.appengagementdemo;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,7 +8,7 @@ import android.view.View;
 import com.clevertap.android.sdk.CleverTapAPI;
 import com.clevertap.android.sdk.exceptions.CleverTapMetaDataNotFoundException;
 import com.clevertap.android.sdk.exceptions.CleverTapPermissionsNotSatisfied;
-import com.example.praveen.appengagementdemo.firebaseAnalytics.FirebaseAnalyticsActivity;
+import com.appengagementdemo.firebaseAnalytics.FirebaseAnalyticsActivity;
 
 import java.util.Date;
 import java.util.HashMap;
