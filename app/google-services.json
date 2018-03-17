@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1029786811393",
+    "firebase_url": "https://engagement-be3b2.firebaseio.com",
+    "project_id": "engagement-be3b2",
+    "storage_bucket": "engagement-be3b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029786811393:android:42ca42c6f3b32a80",
+        "android_client_info": {
+          "package_name": "com.example.praveen.appengagementdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029786811393-rs0qdc6l9jtkjml61pbllfj3ara7ac0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praveen.appengagementdemo",
+            "certificate_hash": "2941cdf34f17ac37abb57fd60c81e5f9d90eb5b0"
+          }
+        },
+        {
+          "client_id": "1029786811393-v9kl8tfa3ctgo3kk946n1e5hi5ejp465.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.praveen.appengagementdemo",
+            "certificate_hash": "226450b6767d4fc5b5cc614568a1f0c5eb99f44b"
+          }
+        },
+        {
+          "client_id": "1029786811393-57psch0u92i6sotp9a4flluqp5mt6563.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgZ77jAkBab0-dTco7EdRf7LII50o7g8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029786811393-57psch0u92i6sotp9a4flluqp5mt6563.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

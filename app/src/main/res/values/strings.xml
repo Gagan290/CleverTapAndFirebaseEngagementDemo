@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CleverTap And Firebase Engagement Demo</string>
+    <string name="custom_channel_name">Custom Channel Name</string>
+</resources>
